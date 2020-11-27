@@ -1,0 +1,5 @@
+Test string
+Long message for word counting
+The first line had only two words
+But in the fourth there are already eight words
+There are 5 lines and 33 words in this file
